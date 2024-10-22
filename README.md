@@ -52,3 +52,10 @@ Seperti ini
 
 ![alt text](gambar/hasil.png)
 
+Penggunaan Git sukses 🥳
+
+12. Kemudian ada clone repository
+
+![alt text](gambar/clon.png)
+
+ini dilakukan untuk mengambil file yang ada di repository [Github](https://github.com/) lalu menaruhnya di repository lokal.
