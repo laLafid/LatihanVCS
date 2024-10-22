@@ -7,24 +7,48 @@
 
 ## Langkah-Langkah
 
-1. Langkah awal untuk menggunakan git adalah untuk mengisi username dan email.
+1. Langkah awal untuk menggunakan [Git](https://git-scm.com/) adalah mengisi username dan email.
 Seperti ini
+
 ![alt text](<gambar/langkah awal.png>)
-2. Buat folder.
+
+2. Kemudian buatlah sebuah folder.
+
 ![alt text](<gambar/buat folder.png>)
-3. Jadikan folder tersebut repository lokal.
-![alt text](<gambar/git init.png>)
-4. Buat file README.
-![alt text](<gambar/buat readme.png>)
-5. Tambahkan file README ke repo. 
-![alt text](<gambar/nambahin file.png>)
-6. Simpan perubahan kedalam database repository lokal.
-![alt text](<gambar/p commit.png>)
-7. Buat repository di [Github](https://github.com/).
+
+3. Masuk ke folder tersebut.
+
+![alt text](gambar/pindahfolder.png)
+
+4. Jadikan folder itu repository lokal.
+
+![alt text](gambar/ginit.png)
+
+5. Buat file README.md[README.md](README.md).
+
+![alt text](gambar/ecoream.png)
+
+6. Tambahkan file README.md[README.md](README.md) ke [Git](https://git-scm.com/). 
+
+![alt text](gambar/addreame.png)
+
+7. Simpan perubahan kedalam database repository lokal.
+
+![alt text](gambar/commit.png)
+
+8. Buat repository di [Github](https://github.com/).
+
 ![alt text](<gambar/buat repo di github.png>)
-8. Tambahkan alamat repository [Github](https://github.com/).
-![alt text](<gambar/terakhir ke 2.png>)
-9. Kirim perubahan yang dilakukan pada repository lokal ke repository [Github](https://github.com/).
-![alt text](<gambar/terakhir ke 1.png>)
-10. Hasilnya
+
+9. Tambahkan alamat repository [Github](https://github.com/).
+
+![alt text](gambar/addori.png)
+
+10. Kirim perubahan yang dilakukan pada repository lokal ke repository [Github](https://github.com/).
+
+![alt text](gambar/pushrepo.png)
+
+11. Hasilnya di [Github](https://github.com/).
+
 ![alt text](gambar/hasil.png)
+
